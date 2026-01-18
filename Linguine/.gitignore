@@ -1,0 +1,14 @@
+﻿# Build outputs
+bin/
+obj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# Publish output
+publish/
+
+# Debug symbols
+*.pdb
